@@ -1,1 +1,1 @@
-# study-resource
+# basics-of-programming
