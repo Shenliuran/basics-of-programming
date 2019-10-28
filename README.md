@@ -16,7 +16,7 @@
 ## UML
 
 + [第一章 introduction](https://github.com/Shenliuran/basics-of-programming/blob/master/UML_English/Chapter_1_introduction.md)
-+ [第二章 diagram](https://github.com/Shenliuran/basics-of-programming/blob/master/UML_English/Chapter_2_diagram.md)
++ [第二章 diagram (...)](https://github.com/Shenliuran/basics-of-programming/blob/master/UML_English/Chapter_2_diagram.md)
 
 ## 软件工程
 
