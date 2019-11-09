@@ -1,5 +1,15 @@
 # 软件过程
 
++ 涉及到的名词：
+    >缩写|全称|中文名
+    >|:-|:---|:---|
+    >RAD|rapid application development|快速原型模型
+    >RUP|rational unified pocess|Rational统一过程
+    >UMA|unified method architecture|统一方法架构元模型
+    >RUP|unified modeling language|统一建模语言
+    >SDP|software development plan|软件开发计划
+    >CMM|capability maturity model|能力成熟度模型
+
 ## 软件生命周期
 
 + 软件定义的三个阶段：

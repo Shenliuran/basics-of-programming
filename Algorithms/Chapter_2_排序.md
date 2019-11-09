@@ -86,7 +86,7 @@
         for (int k = low; k <= high; k++) { // 归并回到a[low ... high]
             if      (i > middle)            a[k] = aux[j++]; //左半边用尽（取右半边的元素）
             else if (j > high)              a[k] = aux[i++]; //右半边用尽（取左半边的元素）
-            else if less(aux[j], aux[i])    a[k] = aux[j++]; //右半边的当前元素小于左半边的当前元素（取右半边的元素）
+            else if (less(aux[j], aux[i]))    a[k] = aux[j++]; //右半边的当前元素小于左半边的当前元素（取右半边的元素）
             else                            a[k] = aux[i++]; //右半边的当前元素大于左半边的当前元素（取左半边的元素）
         }
     }
