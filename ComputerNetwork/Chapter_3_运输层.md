@@ -293,6 +293,7 @@
         2. 出现超时事件时，迁移到慢启动状态：当出现丢包事件时，cwnd被设置为1个MSS，ssthresh被设置为cwnd/2
 + TCP拥塞窗口演化![avatar](../images/COmputerNetwork/TCP拥塞窗口演化.png)
 + TCP拥塞控制常常被称为 **加性增、乘性减（Additive-Increase，Multiplicative-Decrease，AIMD）**
++ TCP拥塞控制的FSM![avatar](../images/ComputerNetwork/TCP拥塞控制的FSM.png)
 
 ### 公平性
 
