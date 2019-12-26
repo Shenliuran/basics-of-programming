@@ -170,7 +170,7 @@
                 4. IP地址租用期（IP地址有效时间量）
             3. DHCP请求：回显配置参数
             4. DHCP ACK：对DHCP请求进行响应，证实配置参数
-        5. DHCP又常被称为 **即插即用协议（plug-and-plug protocol，PPP）**
+        5. DHCP又常被称为 **即插即用协议（plug-and-plug protocol）**
     3. 网络地址转换（Network Address Translation，NAT）
     4. **UPnP（通用即插即用）**：UPnP允许外部主机使用TCP或是UDP向NAT化的主机发起通信会话
 
@@ -185,7 +185,7 @@
 + 数据报格式</br>![avatar](../images/ComputerNetwork/IPv6数据报格式.png)
     1. 跳限制：数据报每经过一个路由器，该字段减1，当到达0时，该数据报将被丢弃
 + 不再存在的字段：
-    1. 分片/重新组装
+    1. 分装
     2. 首部校验和
     3. 选项：可能会出现在IPv6首部中指出的“下一个首部”，也可能就是“下一个首部”
 
